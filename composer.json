@@ -22,7 +22,9 @@
         "doctrine/migrations": "dev-master",
         "doctrine/doctrine-migrations-bundle": "dev-master",
         "doctrine/doctrine-fixtures-bundle": "dev-master",
-        "doctrine/data-fixtures" : "dev-master"
+        "doctrine/data-fixtures" : "dev-master",
+        "friendsofsymfony/user-bundle": "~2.0@dev"
+
     },
     "scripts": {
         "post-install-cmd": [

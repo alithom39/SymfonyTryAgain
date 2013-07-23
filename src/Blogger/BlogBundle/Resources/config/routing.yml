@@ -35,5 +35,9 @@ blogger_blog_homepage:
   pattern:  /hello/{name}
   defaults: { _controller: BloggerBlogBundle:Default:index }
 
+blogger_blog_spit_user:
+  pattern:  /spitUser/{username}
+  defaults: { _controller: BloggerBlogBundle:SpitUser:index }
+
 
 
